@@ -1,0 +1,28 @@
+body{
+    background-image: url("store2.jpg");
+    background-size: cover;
+}
+label{
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+}
+
+.form_reg{
+    margin: auto;
+    background-color: olive;
+    width:450px;
+    margin-top: 50px;
+    
+    border-radius: 20px;
+    opacity: .6;
+}
+
+.hh3{
+    background-color: grey;
+    color:red;
+}
+
+.form_reg .labels{
+    opacity: 1;
+    height: 20px;
+}

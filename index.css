@@ -1,0 +1,17 @@
+body{
+    background-image: url("store.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+.navigation{
+    background-color: black;
+    font-size: 30px;
+    text-decoration: none;
+    font-style: italic;
+    border-radius: 30px;
+    
+
+}
+
+

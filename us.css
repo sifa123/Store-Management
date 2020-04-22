@@ -1,0 +1,15 @@
+
+.login{
+    margin-left: 500px;
+    background-color: grey;
+    height: 250px;
+    width:450px;
+    margin-top: 200px;
+   
+    border-radius: 20px;
+    opacity: .6;
+    font-size: 20px;
+}
+.login_form{
+
+}
